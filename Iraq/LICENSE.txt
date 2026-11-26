@@ -1,1 +1,15 @@
+# Iraqi flags 1920x1080
 
+All Iraqi flags in 1920x1080 resolution.
+
+## Source
+All flags sourced from Wikimedia Commons (Public Domain).
+Edited to 1920x1080 resolution using Paint.NET.
+
+## License
+CC0 1.0 Universal - Public Domain Dedication
+All files in this repository are dedicated to the public domain.
+
+## Attribution (appreciated but not required)
+If you use these flags, attribution is appreciated but not legally required.
+Example: "Flags sourced from [link] "
